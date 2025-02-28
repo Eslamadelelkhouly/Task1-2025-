@@ -1,3 +1,4 @@
+#Eslam adel elkhouly section 2
 def selection_sort(arr):
     for i in range(len(arr)):
         min_idx = i
